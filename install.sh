@@ -153,7 +153,7 @@ sudo rm -rf $tmp
 sudo rm -rf $dir/ariang
 sudo rm -rf $dir/downloads
 
-sudo git clone https://github.com/Masterchiefm/Aria2Dash.git $tmp
+sudo git clone https://git.sdut.me/yukizero7/aira2.git $tmp
 sudo mkdir -p $dir/ariang 
 sudo mkdir -p $dir/downloads
 sudo unzip $tmp/*.zip -d $dir/ariang
